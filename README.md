@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+👋 Olá, eu sou Gustavo
+
+💻 Estudante de Ciências da Computação  
+📚 Aprendendo C, Javascript & MySQL, PostgreSQL 
+🚀 Projetos pessoais e estudos!
+
+## Tecnologias
+- C
+- Javascript
+- PostgreSQL
+- Mysql
+- HTML
+- CSS
+
