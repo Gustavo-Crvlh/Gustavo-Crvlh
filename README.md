@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-💻 Estudante de Ciências da Computação  
+💻 Estudante de Ciências da Computação 
+
 📚 Aprendendo C, Javascript & MySQL, PostgreSQL 
+
 🚀 Projetos pessoais e estudos!
 
 ## Tecnologias
