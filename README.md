@@ -1,4 +1,4 @@
-## Hi there 👋
+## Gustavo Carvalho 😎
 
 <!--
 **Gustavo-Crvlh/Gustavo-Crvlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-👋 Olá, eu sou Gustavo
 
 💻 Estudante de Ciências da Computação  
 📚 Aprendendo C, Javascript & MySQL, PostgreSQL 
